@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-My name is **Trinh Tuan Vu** and I am a Developer with a primary focus on Java development.  
-I like clean code, new technologies, pixels, and everything else.
-
 ## Technology stack
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/aws-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
